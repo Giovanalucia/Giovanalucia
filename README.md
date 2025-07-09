@@ -4,8 +4,9 @@
   <img src="https://i.imgur.com/F12Xlup.png" width="600" height="200">
 </div> 
 
+<br>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanalucia&theme=material-palenight&show_icons=true&hide_border=true&layout=compact"/>
- <img src="https://github-readme-stats.vercel.app/api?username=Giovanalucia&theme=material-palenight&show_icons=true&hide_border=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanalucia&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Giovanalucia&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" width="400" height="200"/>
 </div>
