@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://nukochannel.neocities.org/NukoImg/Activities/Hobbies/nukoBrowsing.gif" width="20">
+  <img src="https://nukochannel.neocities.org/NukoImg/Activities/Hobbies/nukoBrowsing.gif" width="200">
 </div>
 
 <picture>
